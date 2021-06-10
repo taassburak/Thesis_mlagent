@@ -1,0 +1,203 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'tr' Physical Memory: 16221 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/AI_GP_Projects/UnityMLEssentials-feature-crosstheroad
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54328
+Successfully changed project path to: D:/AI_GP_Projects/UnityMLEssentials-feature-crosstheroad
+D:/AI_GP_Projects/UnityMLEssentials-feature-crosstheroad
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/AI_GP_Projects/UnityMLEssentials-feature-crosstheroad/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6156
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56256
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001250 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 29.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.333 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001832 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.198 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1724 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.4 MB.
+System memory in use after: 91.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2157.
+Total: 2.943200 ms (FindLiveObjects: 0.213100 ms CreateObjectMapping: 0.372600 ms MarkObjects: 2.296000 ms  DeleteObjects: 0.060300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/AssetStore/Gridbox Prototype Materials
+  artifactKey: Guid(12857ffb574639145890390d8e64e4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Gridbox Prototype Materials using Guid(12857ffb574639145890390d8e64e4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7001716f84d50d48a0e472807771394f') in 0.013574 seconds
+  Import took 0.018075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.791516 seconds.
+  path: Assets/Materials/Default.mat
+  artifactKey: Guid(6a163462ba5baea438c948324978f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Default.mat using Guid(6a163462ba5baea438c948324978f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bb77e401aae9e09835ce66d23316fb1') in 0.111758 seconds
+  Import took 0.114323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Materials/DefaultCrossRoads.mat
+  artifactKey: Guid(adee3c3c6350c534e9f3595665164b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/DefaultCrossRoads.mat using Guid(adee3c3c6350c534e9f3595665164b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a72c8e1df4eea44961976e280815f7f2') in 0.013021 seconds
+  Import took 0.016176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Materials/Trail.mat
+  artifactKey: Guid(b98c9d36fc649f94084403b978d75ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Trail.mat using Guid(b98c9d36fc649f94084403b978d75ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25c6f842131d9d3145c16e5eb15145f8') in 0.014349 seconds
+  Import took 0.017728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Materials/Success.mat
+  artifactKey: Guid(d3ecebe7a5fbf8749b3d7e50288222cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Success.mat using Guid(d3ecebe7a5fbf8749b3d7e50288222cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46a8e2e78bda9075f4c71fc5afd1ee6') in 0.017877 seconds
+  Import took 0.020937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Materials/Goal.mat
+  artifactKey: Guid(f7dada8485a86ba4e8ab84604a095b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Goal.mat using Guid(f7dada8485a86ba4e8ab84604a095b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f82663eb333793d28f975fee4447ca5b') in 0.021525 seconds
+  Import took 0.024402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Materials/DefaultAvoidance.mat
+  artifactKey: Guid(152fe3fe560c163458a4ef826df27710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/DefaultAvoidance.mat using Guid(152fe3fe560c163458a4ef826df27710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c254d07a1ad96d58109f91f06d2569e') in 0.028060 seconds
+  Import took 0.031881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Materials/Wall.mat
+  artifactKey: Guid(9254c4f8a7ecd4df1be2cbe6752cf3b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Wall.mat using Guid(9254c4f8a7ecd4df1be2cbe6752cf3b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c99c24631b01fc5d402905e9709c8d') in 0.012616 seconds
+  Import took 0.015488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Materials/Failure.mat
+  artifactKey: Guid(14b76b33ed8c3ea439ee004f8d4a90a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Failure.mat using Guid(14b76b33ed8c3ea439ee004f8d4a90a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f631a777c35db7457ea3ca5cde2dd0') in 0.015307 seconds
+  Import took 0.018342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Materials/Sky.mat
+  artifactKey: Guid(193c662201352934395effdc4ab0510c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sky.mat using Guid(193c662201352934395effdc4ab0510c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680f19d9028081fc773b996645627736') in 0.016960 seconds
+  Import took 0.019653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Materials/RoadFiller.mat
+  artifactKey: Guid(621bc1fe6370c9d4ca28383db8e830d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/RoadFiller.mat using Guid(621bc1fe6370c9d4ca28383db8e830d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '998ba32c73f31f65f762805b57b9181d') in 0.067390 seconds
+  Import took 0.069986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.178216 seconds.
+  path: Assets/PostProcessing/CrossTheRoad.asset
+  artifactKey: Guid(983c5565abf2a9a4a9134d3dd4303488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PostProcessing/CrossTheRoad.asset using Guid(983c5565abf2a9a4a9134d3dd4303488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306f6b3af221a7a69adbc3e5c8212a65') in 0.024152 seconds
+  Import took 0.026700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.762496 seconds.
+  path: Assets/Prefabs/CrossTheRoadArea.prefab
+  artifactKey: Guid(361ae1ea563fa456db5ba08231237322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CrossTheRoadArea.prefab using Guid(361ae1ea563fa456db5ba08231237322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e078ace2f7f5ec5dfbe8116284cd5d') in 0.141817 seconds
+  Import took 0.147358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Prefabs/PlayerMazeArea.prefab
+  artifactKey: Guid(64c2c4ae90cc8744f82c6b7002926298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlayerMazeArea.prefab using Guid(64c2c4ae90cc8744f82c6b7002926298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae12ac842f7d29a24829312c4e37281') in 0.023286 seconds
+  Import took 0.025999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Prefabs/PlayerAvoidanceArea.prefab
+  artifactKey: Guid(2dc86ac9bd5d5ba43983eb5ffbcb7b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlayerAvoidanceArea.prefab using Guid(2dc86ac9bd5d5ba43983eb5ffbcb7b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277440f77f629f6764587cfd695d4cb9') in 0.037787 seconds
+  Import took 0.040845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.238034 seconds.
+  path: Assets/Sound/Bike_Rides.mp3
+  artifactKey: Guid(a44c9e718bf5ba341adf2bdb906f00f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Bike_Rides.mp3 using Guid(a44c9e718bf5ba341adf2bdb906f00f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0014c0f0e0c16b03e8c1fc06c82918e') in 0.043187 seconds
+  Import took 0.046251 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
